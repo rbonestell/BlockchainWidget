@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlockchainWidget</string>
+
+    <string name="height">Height</string>
+
+    <string name="loading">Loading…</string>
+
+    <string name="outstanding">Outstanding</string>
+
+    <string name="last_block">Last Block</string>
+
+    <string name="bitcoin_mining">Bitcoin Mining</string>
+
+    <string name="update_frequency">Update Frequency</string>
+
+</resources>
