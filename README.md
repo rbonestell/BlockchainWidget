@@ -7,6 +7,11 @@ Blockchain Information Widget for Android
 
 This project includes the Jackson JSON library (https://github.com/FasterXML/jackson) utilized under Apache License 2.0.
 
+#Download
+
+Download a signed+compiled APK here:
+http://www.rbonestell.com/blockchainwidget/BlockchainWidget1.0.apk
+
 #License ![](http://i.creativecommons.org/p/zero/1.0/88x31.png)
 
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
