@@ -1,4 +1,4 @@
-BlockchainWidget for Android
+BlockchainWidget for Android [![Build Status](https://travis-ci.org/rbonestell/BlockchainWidget.svg)](https://travis-ci.org/rbonestell/BlockchainWidget)
 ================
 
 Blockchain Information Widget for Android
