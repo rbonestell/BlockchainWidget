@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 15
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.rbonestell.bcwidget"
+        minSdkVersion 15
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/jackson-annotations-2.1.1.jar')
+    compile files('libs/jackson-core-2.1.1.jar')
+    compile files('libs/jackson-databind-2.1.1.jar')
+}
