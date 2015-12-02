@@ -1,4 +1,4 @@
-BlockchainWidget for Android [![Build Status](https://travis-ci.org/rbonestell/BlockchainWidget.svg)](https://travis-ci.org/rbonestell/BlockchainWidget) [![Public Domain License](http://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://raw.githubusercontent.com/rbonestell/BlockchainWidget/master/LICENSE)
+BlockchainWidget for Android [![Build Status](https://travis-ci.org/rbonestell/BlockchainWidget.svg?branch=development)](https://travis-ci.org/rbonestell/BlockchainWidget) [![Public Domain License](http://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://raw.githubusercontent.com/rbonestell/BlockchainWidget/master/LICENSE)
 ================
 
 Blockchain Information Widget for Android
